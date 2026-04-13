@@ -25,7 +25,6 @@
       "edgeToEdgeEnabled": true
     },
     "plugins": [
-      "expo-router",
       [
         "expo-notifications",
         {
